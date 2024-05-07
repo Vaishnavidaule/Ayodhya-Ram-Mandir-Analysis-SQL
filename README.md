@@ -6,6 +6,5 @@
 
 # Database and Tools
 • My-SQL
-![image](https://github.com/Vaishnavidaule/Ayodhya-Ram-Mandir-Analysis-SQL/assets/114101523/1df6a48b-f105-4c80-b8df-1aa0b3ff0a1d)
 
 
