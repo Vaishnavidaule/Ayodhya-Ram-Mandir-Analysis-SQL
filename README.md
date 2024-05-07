@@ -4,3 +4,7 @@
 •	 Leveraged SQL proficiency to derive actionable insights for decision-making and project planning.
 •	Translated insights into visually appealing Canva presentations for effective communication with stakeholders.
 
+# Database and Tools
+• My-SQL
+
+
